@@ -40,3 +40,12 @@ function exponent(a, b) {
     return Math.pow(a,b);
   }
 
+  //Calling the functions
+
+console.log(add(1,2));
+console.log(subt(1,2));
+console.log(multiply(1,2));
+console.log(divide(1,2));
+console.log(mod(1,2));
+console.log(exponent(1,2));
+
